@@ -8,7 +8,4 @@
  *
  * Main module of the application.
  */
-angular
-  .module('twentyfortyeightApp', [
-    'ngCookies'
-  ]);
+angular.module('twentyfortyeightApp', []);
